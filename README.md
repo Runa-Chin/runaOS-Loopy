@@ -4,3 +4,14 @@ runaOS is a modified operating system based on Windows 11 which removes the nega
 
 ## Whats different between original Windows 11 Home and runaOS Loopy ?
 
+### ***Privacy***
+
+runaOS respects your privacy by removing all kinds of tracking embedded in Windows which is where everything we do will be seen by Microsoft. If you don't want your privacy to be seen by Microsoft, runaOS can be a good choice.
+
+### ***Security***
+
+Unlike most other Windows projects, runaOS is also safe to use and will have no effect on performance. Whether with Windows Defender or without Windows Defender, runaOS can run well with the security that Microsoft has implemented, especially the Security Improvements that Microsoft maintains as Windows 11 evolves.
+
+### ***Debloated***
+
+In keeping with what runaOS stands for, runaOS strips away some features and functions that most users, especially some beginners don't know about Windows. We strive to eliminate bloatware for the convenience of runaOS users who prioritize performance and comfort in using a computer
