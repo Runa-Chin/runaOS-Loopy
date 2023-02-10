@@ -2,6 +2,8 @@
 
 runaOS is a modified operating system based on Windows 11 which removes the negative stigma about Windows 11 such as bloated, unimportant features, and others. runaOS aims to make the system debloated and eliminate things that users do not need along with user needs where bloatware and some features that we do not use can consume the resources we have without our will. Here according to our goals, we are transparent and what we are doing is open source. And this project also supports giving to anyone to contribute and can be a good choice for old computer users who are still worthy of running Windows 10 and want to use Windows 11. runaOS supports for computer users low specifications or powerful specifications.
 
+Loopy release name is named from one of character as Pinky Beaver from ***Pororo : The Little Penguin*** named ***Loopy***
+
 ## Whats different between original Windows 11 Home and runaOS Loopy ?
 
 ### ***Privacy***
@@ -15,3 +17,7 @@ Unlike most other Windows projects, runaOS is also safe to use and will have no 
 ### ***Debloated***
 
 In keeping with what runaOS stands for, runaOS strips away some features and functions that most users, especially some beginners don't know about Windows. We strive to eliminate bloatware for the convenience of runaOS users who prioritize performance and comfort in using a computer
+
+# When runaOS Loopy will release ?
+
+For now, we have still developing and testing for runaOS Loopy and will release on this end of Pebruary or earlier of March this year. For updating abour runaOS, you can join [***Indonesian Windows Forum*** Whatsapp Group](https://chat.whatsapp.com/BQnhlTApS5HHkUiu2LAbiT)
