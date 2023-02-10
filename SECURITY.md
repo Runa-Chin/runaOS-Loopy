@@ -11,4 +11,4 @@ In runaOS Project, we try our best to do improvements to security out-of-the-box
 
 Since runaOS Loopy is based on Windows 11 Home, a closed-source operating system made by Microsoft, we don't have a lot of options when it comes to solutions to security vulnerabilities. So, we kindly ask you to report any security vulnerabilities with our operating system you find to Microsoft and not reported to us.
 
-You can read and learn more about reporting security vulnerabilities and pentesting over at [Microsoft's FAQ](https://www.microsoft.com/en-us/msrc/faqs-report-an-issue), and we wish you get the best of luck in your report.
+You can read and learn more about reporting security vulnerabilities and pentesting over at [Microsoft's FAQ](https://www.microsoft.com/en-us/msrc/faqs-report-an-issue) and we wish you get the best of luck in your report.
