@@ -18,6 +18,14 @@ Unlike most other Windows projects, runaOS is also safe to use and will have no 
 
 In keeping with what runaOS stands for, runaOS strips away some features and functions that most users, especially some beginners don't know about Windows. We strive to eliminate bloatware for the convenience of runaOS users who prioritize performance and comfort in using a computer
 
+### ***Compatible for all systems***
+
+runaOS Loopy supports any modern x64 processor with year production minimum 2015, and runaOS Loopy optimizing for home uses and good to use for computer with low-spec systems and higher system with minimal features which don't needed for Home usages
+
+### ***Good for gaming and hard working***
+
+runaOS uses minimum resources of RAM and CPU uses (depending on your hardware) and good for hard working and gaming. runaOS has preinstalled DirectX 9.0 and Microsoft VC Redistributable. So, dont be worry if you need that for installing to your systems.
+
 # When runaOS Loopy will release ?
 
-For now, we have still developing and testing for runaOS Loopy and will release on this end of Pebruary or earlier of March this year. For updating abour runaOS, you can join [***Indonesian Windows Forum*** Whatsapp Group](https://chat.whatsapp.com/BQnhlTApS5HHkUiu2LAbiT)
+For now, we have still developing and testing for runaOS Loopy and will release on 14th February or if we late, on earlier of March this year.
