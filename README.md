@@ -29,3 +29,17 @@ runaOS uses minimum resources of RAM and CPU uses (depending on your hardware) a
 # When runaOS Loopy will release ?
 
 runaOS now has been released from this day and you can download it at our external sites now. And for more information about releases, you can see it on our external sites and we given download link if you wanna use it. Be careful, runaOS is earlier and still small for project scale. SO, for now you can only contribute for feedback issue on this Issue tab or reporting to Microsoft if you found error code on BSOD. [Here are for external download site](https://runaos-loopy.carrd.co).
+
+#Release Information
+
+### runaOS Loopy Bloom (Windows 11 Home 22621.1105)
+Size : 3.8 GB
+Image Build : 10.0.22621.1105 (Retail Channel)
+Build Time : 9 hours 48 minutes
+Features Kept : WSL, Pinting, Microsoft Store, Media Player, abnd more
+Added Features : Mozilia Firefox, .NET 6/7, VC Redist, Old Paint, and Win32 Calc
+Removed Feaures : Edge, Internet Explorer, Several UWP apps, and more
+Status : Bloom (Beta 1/Earlier Release) and ready to use to any PC (Minimum 2015 year productions for CPU)
+
+### runaOS Loopy Stable (Windows 11 Home 22621.1265) (Next releases)
+For this releases, we will develop and test this next release. So be updated with Star the repo and be discuss with me for get known about next releases.
