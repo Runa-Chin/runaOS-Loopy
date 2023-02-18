@@ -33,13 +33,13 @@ runaOS now has been released from this day and you can download it at our extern
 # Release Information
 
 ### runaOS Loopy Bloom (Windows 11 Home 22621.1105)
-Size : 3.8 GB
-Image Build : 10.0.22621.1105 (Retail Channel)
-Build Time : 9 hours 48 minutes
-Features Kept : WSL, Pinting, Microsoft Store, Media Player, abnd more
-Added Features : Mozilia Firefox, .NET 6/7, VC Redist, Old Paint, and Win32 Calc
-Removed Feaures : Edge, Internet Explorer, Several UWP apps, and more
-Status : Bloom (Beta 1/Earlier Release) and ready to use to any PC (Minimum 2015 year productions for CPU)
+- Size : 3.8 GB
+- Image Build : 10.0.22621.1105 (Retail Channel)
+- Build Time : 9 hours 48 minutes
+- Features Kept : WSL, Pinting, Microsoft Store, Media Player, abnd more
+- Added Features : Mozilia Firefox, .NET 6/7, VC Redist, Old Paint, and Win32 Calc
+- Removed Feaures : Edge, Internet Explorer, Several UWP apps, and more
+- Status : Bloom (Beta 1/Earlier Release) and ready to use to any PC (Minimum 2015 year productions for CPU)
 
 ### runaOS Loopy Stable (Windows 11 Home 22621.1265) (Next releases)
 For this releases, we will develop and test this next release. So be updated with Star the repo and be discuss with me for get known about next releases.
