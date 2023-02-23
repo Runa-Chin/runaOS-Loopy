@@ -42,4 +42,10 @@ runaOS now has been released from this day and you can download it at our extern
 - Status : Bloom (Beta 1/Earlier Release) and ready to use to any PC (Minimum 2015 year productions for CPU)
 
 ### runaOS Loopy Stable (Windows 11 Home 22621.1265) (Next releases)
-For this releases, we will develop and test this next release. So be updated with Star the repo and be discuss with me for get known about next releases.
+- Size : 4.0 GB
+- Image Build : 10.0.22621.1265 (Retail Channel)
+- Build Time : 10 hours
+- Features Kept : WSL, Printing, Microsoft Store, Media Player, and more
+- Added Features : Google Chrome, VC Redist, Old Paint, Win32 Calc, and more fonts
+- Removed Features : Edge, Internet Explorer, Defender, Several UWP apps, OneDrive, and more
+- Status : Stable release and ready to use to any PC (Minimum 2010 year productions for CPU and supports x64)
