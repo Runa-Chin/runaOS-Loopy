@@ -41,7 +41,7 @@ runaOS now has been released from this day and you can download it at our extern
 - Removed Feaures : Edge, Internet Explorer, Several UWP apps, and more
 - Status : Bloom (Beta 1/Earlier Release) and ready to use to any PC (Minimum 2015 year productions for CPU)
 
-### runaOS Loopy Stable (Windows 11 Home 22621.1265) (Next releases)
+### runaOS Loopy Stable (Windows 11 Home 22621.1265)
 - Size : 4.0 GB
 - Image Build : 10.0.22621.1265 (Retail Channel)
 - Build Time : 10 hours
@@ -49,3 +49,7 @@ runaOS now has been released from this day and you can download it at our extern
 - Added Features : Google Chrome, VC Redist, Old Paint, Win32 Calc, and more fonts
 - Removed Features : Edge, Internet Explorer, Defender, Several UWP apps, OneDrive, and more
 - Status : Stable release and ready to use to any PC (Minimum 2010 year productions for CPU and supports x64)
+
+# Note for editions
+
+Now, runaOS has 2 editions for releases. We called Bloom and Stable. Bloom is meaning of beta verisons where we taking beta revision and unstable modifications of runaOS Loopy. Meanwhile, Stable is fixed release versions where we build for stable releases. So, you can use runaOS Loopy between Bloom and Stable.
