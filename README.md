@@ -31,7 +31,7 @@ runaOS uses minimum resources of RAM and CPU uses (depending on your hardware) a
 <p align="center">
   <div class="row" align="center">
 <a href='https://www.mediafire.com/file/dg0o1wthm65bfz1/runaOS-Loopy-Stable-22H2-22621.1265.iso/file'><img src='https://raw.githubusercontent.com/Runa-Chin/runaOS-Loopy/66b95edd7905231ce74d2597a8f7ca0a48d6f97b/button_runaos-loopy-stable-m.png'alt='Download Moment 1'/>
-<a href='https://www.mediafire.com/file/dg0o1wthm65bfz1/runaOS-Loopy-Stable-22H2-22621.1265.iso/file'><img src='https://raw.githubusercontent.com/Runa-Chin/runaOS-Loopy/66b95edd7905231ce74d2597a8f7ca0a48d6f97b/button_runaos-loopy-stable-m.png'alt='Download Moment 1'/>
+<a href='https://www.mediafire.com/file/0nuz5snb4yylx07/runaOS-Loopy-Stable-22H2M2-22621.1413.iso/file'><img src='https://raw.githubusercontent.com/Runa-Chin/runaOS-Loopy/66b95edd7905231ce74d2597a8f7ca0a48d6f97b/button_runaos-loopy-stable-m.png'alt='Download Moment 2'/>
 </div>
 </p>
 
