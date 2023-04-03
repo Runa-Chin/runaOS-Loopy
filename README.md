@@ -26,16 +26,16 @@ runaOS Loopy supports any modern x64 processor with year production minimum 2015
 
 runaOS uses minimum resources of RAM and CPU uses (depending on your hardware) and good for hard working and gaming. runaOS has preinstalled DirectX 9.0 and Microsoft VC Redistributable. So, dont be worry if you need that for installing to your systems.
 
-# Where I ca?
+# Download runaOS Loopy
 
 <p align="center">
   <div class="row" align="center">
 <a href='https://www.mediafire.com/file/dg0o1wthm65bfz1/runaOS-Loopy-Stable-22H2-22621.1265.iso/file'><img src='https://raw.githubusercontent.com/Runa-Chin/runaOS-Loopy/66b95edd7905231ce74d2597a8f7ca0a48d6f97b/button_runaos-loopy-stable-m.png'alt='Download Moment 1'/>
-<a href='https://www.mediafire.com/file/0nuz5snb4yylx07/runaOS-Loopy-Stable-22H2M2-22621.1413.iso/file'><img src='https://raw.githubusercontent.com/Runa-Chin/runaOS-Loopy/66b95edd7905231ce74d2597a8f7ca0a48d6f97b/button_runaos-loopy-stable-m.png'alt='Download Moment 2'/>
+<a href='https://www.mediafire.com/file/0nuz5snb4yylx07/runaOS-Loopy-Stable-22H2M2-22621.1413.iso/file'><img src='https://raw.githubusercontent.com/Runa-Chin/runaOS-Loopy/main/button_runaos-loopy-stable-m%20(1).png'alt='Download Moment 2'/>
 </div>
 </p>
 
-runaOS now has been released from this day and you can download it at our external sites now. And for more information about releases, you can see it on our external sites and we given download link if you wanna use it. Be careful, runaOS is earlier and still small for project scale. SO, for now you can only contribute for feedback issue on this Issue tab or reporting to Microsoft if you found error code on BSOD. [Here are for external download site](https://runaos-loopy.carrd.co).
+As you can see, runaOS has two stable release. M1 means Moment 1 and still use build 22621.1265 and M2 means Moment 2 and use build 22621.1413. runaOS will do update every stable release of original Windows was out to public release. You can download directly from MediaFire servers and we don't take profit from our project. Feel free to donate for supporting runaOS Loopy and your donations will use for buying hardware.
 
 # Release Information
 
