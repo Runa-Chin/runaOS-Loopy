@@ -28,6 +28,13 @@ runaOS uses minimum resources of RAM and CPU uses (depending on your hardware) a
 
 # Where I ca?
 
+<p align="center">
+  <div class="row" align="center">
+<a href='https://www.mediafire.com/file/dg0o1wthm65bfz1/runaOS-Loopy-Stable-22H2-22621.1265.iso/file'><img src='https://raw.githubusercontent.com/Runa-Chin/runaOS-Loopy/66b95edd7905231ce74d2597a8f7ca0a48d6f97b/button_runaos-loopy-stable-m.png'alt='Download Moment 1'/>
+<a href='https://www.mediafire.com/file/dg0o1wthm65bfz1/runaOS-Loopy-Stable-22H2-22621.1265.iso/file'><img src='https://raw.githubusercontent.com/Runa-Chin/runaOS-Loopy/66b95edd7905231ce74d2597a8f7ca0a48d6f97b/button_runaos-loopy-stable-m.png'alt='Download Moment 1'/>
+</div>
+</p>
+
 runaOS now has been released from this day and you can download it at our external sites now. And for more information about releases, you can see it on our external sites and we given download link if you wanna use it. Be careful, runaOS is earlier and still small for project scale. SO, for now you can only contribute for feedback issue on this Issue tab or reporting to Microsoft if you found error code on BSOD. [Here are for external download site](https://runaos-loopy.carrd.co).
 
 # Release Information
