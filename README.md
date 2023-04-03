@@ -26,22 +26,22 @@ runaOS Loopy supports any modern x64 processor with year production minimum 2015
 
 runaOS uses minimum resources of RAM and CPU uses (depending on your hardware) and good for hard working and gaming. runaOS has preinstalled DirectX 9.0 and Microsoft VC Redistributable. So, dont be worry if you need that for installing to your systems.
 
-# When runaOS Loopy will release ?
+# Where I ca?
 
 runaOS now has been released from this day and you can download it at our external sites now. And for more information about releases, you can see it on our external sites and we given download link if you wanna use it. Be careful, runaOS is earlier and still small for project scale. SO, for now you can only contribute for feedback issue on this Issue tab or reporting to Microsoft if you found error code on BSOD. [Here are for external download site](https://runaos-loopy.carrd.co).
 
 # Release Information
 
-### runaOS Loopy Bloom (Windows 11 Home 22621.1105)
-- Size : 3.8 GB
-- Image Build : 10.0.22621.1105 (Retail Channel)
-- Build Time : 9 hours 48 minutes
+### runaOS Loopy Stable Moment 2 (Windows 11 Home 22621.1413)
+- Size : 4.45 GB
+- Image Build : 10.0.22621.1413 (Retail Channel)
+- Build Time : 2 days 3 hours
 - Features Kept : WSL, Printing, Microsoft Store, Media Player, and more
-- Added Features : Mozilia Firefox, .NET 6/7, VC Redist, Old Paint, and Win32 Calc
-- Removed Feaures : Edge, Internet Explorer, Several UWP apps, and more
+- Added Features : PowerShell 7.0, VC Redist, Old Paint, and Win32 Calc
+- Removed Feaures : Internet Explorer, Several UWP apps,  Defender, and more
 - Status : Bloom (Beta 1/Earlier Release) and ready to use to any PC (Minimum 2015 year productions for CPU)
 
-### runaOS Loopy Stable (Windows 11 Home 22621.1265)
+### runaOS Loopy Stable Moment 1 (Windows 11 Home 22621.1265)
 - Size : 4.0 GB
 - Image Build : 10.0.22621.1265 (Retail Channel)
 - Build Time : 10 hours
@@ -51,5 +51,4 @@ runaOS now has been released from this day and you can download it at our extern
 - Status : Stable release and ready to use to any PC (Minimum 2010 year productions for CPU and supports x64)
 
 # Note for editions
-
-Now, runaOS has 2 editions for releases. We called Bloom and Stable. Bloom is meaning of beta verisons where we taking beta revision and unstable modifications of runaOS Loopy. Meanwhile, Stable is fixed release versions where we build for stable releases. So, you can use runaOS Loopy between Bloom and Stable.
+Start from April 1st, Bloom Channel was deprecated and ISOs for Bloom was removed because we're ready for be Stable. So, now you can download Stable release. According to our announcement, we will build for Legacy release, but not on this Ramadhan. So wait for next our announcement next time.
