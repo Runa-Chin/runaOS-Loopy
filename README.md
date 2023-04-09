@@ -46,7 +46,7 @@ As you can see, runaOS has two stable release. M1 means Moment 1 and still use b
 - Features Kept : WSL, Printing, Microsoft Store, Media Player, and more
 - Added Features : PowerShell 7.0, VC Redist, Old Paint, and Win32 Calc
 - Removed Feaures : Internet Explorer, Several UWP apps,  Defender, and more
-- Status : Bloom (Beta 1/Earlier Release) and ready to use to any PC (Minimum 2015 year productions for CPU)
+- Status :Stable release and ready to use to any PC (Minimum 2015 year productions for CPU)
 
 ### runaOS Loopy Stable Moment 1 (Windows 11 Home 22621.1265)
 - Size : 4.0 GB
